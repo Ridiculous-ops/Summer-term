@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "481e6b8030169780",
+    "type": "split",
+    "children": [
+      {
+        "id": "d050f75974fdfa56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0126d907a4d0a891",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Brazil_Ecom/dataclean.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dataclean"
+            }
+          },
+          {
+            "id": "60b97278b5aeafc8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "p1.png"
+              },
+              "icon": "lucide-image",
+              "title": "p1"
+            }
+          },
+          {
+            "id": "c3d1d6e12440d7d8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "p2.png"
+              },
+              "icon": "lucide-image",
+              "title": "p2"
+            }
+          },
+          {
+            "id": "e2da7e6998c2dedf",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "p1.png"
+              },
+              "icon": "lucide-image",
+              "title": "p1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2e11b6633a7141a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0a0d4bab918926d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3572990d9868061a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "2ee4a16364a4c111",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "54df21708d616a4b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c989edc9e164c193",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc9b543f9d9657cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f4231260960246f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Brazil_Ecom/dataclean.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "dataclean 的反向链接列表"
+            }
+          },
+          {
+            "id": "bd7c1274e5fb41e0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Brazil_Ecom/dataclean.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "dataclean 的出链列表"
+            }
+          },
+          {
+            "id": "2b7f7ea77b9dcc67",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "1f050c8bd75e0c7d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Brazil_Ecom/dataclean.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "dataclean 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "0126d907a4d0a891",
+  "lastOpenFiles": [
+    "吴匡正-廖鑫宇-白吉岩.pdf",
+    "dataclean.pdf",
+    "p1.png",
+    "Brazil_Ecom/p6.png",
+    "Brazil_Ecom/p5.png",
+    "Brazil_Ecom/p4.png",
+    "Brazil_Ecom/p3.png",
+    "Brazil_Ecom/p2.png",
+    "Brazil_Ecom/p1.png",
+    "Brazil_Ecom/p7.png",
+    "p3.png",
+    "p2.png",
+    "Brazil_Ecom/dataclean.md"
+  ]
+}
